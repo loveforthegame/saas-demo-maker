@@ -1,0 +1,6 @@
+{
+  "name": "saas-demo-maker",
+  "version": "1.0.0",
+  "description": "Story-led 8/15/20 s product ads for any SaaS or app: intake, 3 concepts, storyboard sign-off, Predis MCP generation (Seedance 2.5), HyperFrames build and render.",
+  "author": { "name": "Abhinav" }
+}
