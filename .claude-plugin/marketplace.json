@@ -6,7 +6,7 @@
     {
       "name": "saas-demo-maker",
       "source": "./",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "description": "Story-led 8/15/20 s product ads for any SaaS or app, generated through the Predis MCP and built in HyperFrames."
     }
   ]

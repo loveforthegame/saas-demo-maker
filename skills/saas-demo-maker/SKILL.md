@@ -57,12 +57,13 @@ One line each, recommendation first. Each concept names:
   the burst of outputs, a punch = the click, a wipe = the reveal).
 - **Hook-as-problem** (an event in ≤2 s) and the **callback payoff** (same place or action, flipped).
 
+Before pitching, name 3 overused ideas in this product category's ads; no concept may use them.
 Each concept must differ from earlier ads in hero, business, look and payoff shape. Wait for a pick.
 
 ## Step 3. Storyboard table in chat (gate 2 → spend)
 
 Show the table **in the chat** and wait for an explicit yes on that table. A "go ahead" given before the table
-was seen is not sign-off. Above it: story overview, the spoken lines, edit grammar, the one motif, impact budget.
+was seen is not sign-off. Above it: story overview mapped to the five parts (see Story rules), the spoken lines, edit grammar, the one motif, impact budget.
 
 | # | Time | Beat | Camera (one line) | Impact Y/N | Style | Borrowed from (IDs) | Credits |
 |---|---|---|---|---|---|---|---|
@@ -82,9 +83,10 @@ Below it: credits total + ceiling (one re-shoot), and the rules checked.
 1. **Cast bible** in `SHOTS.md`, written once and pasted word for word: a trait line per character (and pet/prop),
    SET, LIGHT (Kelvin + source + what's not there), FILM (one stock, different from earlier ads), REALISM, MOTION.
 2. **Stills, in parallel batches** (connector cap: 30 generations/hour):
-   - character sheet(s): `nano_banana_pro`, 16:9, 2K, 3 panels on grey (~7 cr)
+   - character sheet(s): `nano_banana_pro`, 16:9, 2K, 3 panels on grey (~7 cr), after a casting pass of a few
+     face options picked by taste
    - logo that says what the business is: `gpt_image_2_5_flare` 1024², text quoted and spelled letter by letter (~4 cr)
-   - empty set plate(s): `nano_banana_pro` (~7 cr)
+   - empty set plate(s): `nano_banana_pro` (~7 cr), lived-in (bags, notes, clutter of the trade)
    - opening world shot with the logo on the sign: `gpt_image_2_5_flare` 1920×1080, logo as reference (~4 cr)
    - first frames: `nano_banana_pro` with refs (sheet, set), `outputs: 2` to pick from (~15 cr)
    - the product's outputs and any reference content shown in the UI (e.g. competitor posts): fictional, no real brands
@@ -117,8 +119,10 @@ the videos", keep every clip and fix only the edit.
 - The hero is a customer of the product with a name, a business or role, and visual edge. Open on their world:
   the sign/logo and what they sell, and put "Name · Role, Business" on screen.
 - The hero **speaks on camera** (1–2 short lines, lip-synced). No voiceover. Text never carries the story alone.
-- A micro-arc even at 8 s: want → obstacle → turn (the product) → win, ending on a **callback** to the hook. Add
-  one humour beat.
+- A micro-arc even at 8 s: situation → desire → conflict → change (the product) → reward, ending on a
+  **callback** to the hook. The conflict carries the story. Add one humour beat.
+- The change is the loudest, least expected moment: the product breaks into the hero's world (not a quiet cut
+  to a screen). Spend the impact there, with a grade flip (W10, recipe 7.14).
 - Show the loop the product is built for, in the order users meet it. The core **make/do step is required at
   every length**. Output steps (publish, share, sync) can shrink to a ~1 s tail. Cutting an integration beat
   never cuts the core step.
