@@ -1,13 +1,15 @@
 {
   "name": "saas-demo-maker",
   "description": "SaaS demo maker: story-led short product ads for any product.",
-  "owner": { "name": "Abhinav" },
+  "owner": {
+    "name": "Abhinav"
+  },
   "plugins": [
     {
       "name": "saas-demo-maker",
       "source": "./",
-      "version": "1.1.0",
-      "description": "Story-led 8/15/20 s product ads for any SaaS or app, generated through the Predis MCP and built in HyperFrames."
+      "version": "1.2.0",
+      "description": "Story-led product ads and silent feature-hero videos for any SaaS or app, generated through the Predis MCP and built in HyperFrames."
     }
   ]
 }

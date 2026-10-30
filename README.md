@@ -26,4 +26,4 @@ In Claude Code: `make an 8 second demo ad for <product, URL>` (or `/saas-demo-ma
 2. **HyperFrames skills:** `npx skills add heygen-com/hyperframes --all`
 3. **Node.js 18+, ffmpeg, Python with `openai-whisper`** (`pip install openai-whisper`).
 
-Bundled: `saas-demo-maker`, `predis-director`, `prompt-styles`, a Mixkit SFX kit and the Inter font.
+Bundled: `saas-demo-maker`, `prompting-guide`, a Mixkit SFX kit and the Inter font.

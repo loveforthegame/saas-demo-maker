@@ -7,7 +7,7 @@ One monolithic `film/index.html`. Load the `hyperframes` + `hyperframes-core` sk
 ```
 <project>/
   BRIEF.md  STORYBOARD.md  NOTES.md          # intake, signed table, per-round feedback log
-  predis-output/director/<slug>/SHOTS.md     # cast bible, compiled prompts, run log (predis-director)
+  predis-output/director/<slug>/SHOTS.md     # cast bible, compiled prompts with check: PASS lines, run log (prompting-guide)
   assets/gen/                                # every generated still + contact sheets
   film/index.html  film/assets/{img,video,audio,brand,fonts}  film/renders/  film/versions/
 ```
