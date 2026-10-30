@@ -101,7 +101,7 @@ Three-shot shape (~15 s):
 - [ ] Every tag has a stated job; tag numbering = reference list order per type
 - [ ] 40 to 110 words per shot; shots labelled if more than one
 - [ ] Duration fits shots x 4 to 6 s; at least 4 s
-- [ ] Resolution chosen on purpose (720p unless final)
+- [ ] Resolution chosen on purpose: 720p for drafts, 1080p for every clip in the final cut
 
 ### Failure modes
 
@@ -113,6 +113,7 @@ Three-shot shape (~15 s):
 | Ref fights the prompt | delete re-description; add what does not transfer |
 | Product or logo warps | "static identity, no shape change"; give it its own shot |
 | 1080p bill shock | draft 720p; 1080p only for the final |
+| Faces waxy or soft in the final edit | 720p upscaled to 1080p smooths skin, and faces soften later in a clip; final clips at 1080p, cut close-ups from the first 2-3 s, no extra scale push-in in the edit |
 
 ---
 

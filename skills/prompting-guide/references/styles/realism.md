@@ -133,3 +133,18 @@ LOOK: [one light source] with deep [color] shadows, warm natural skin tones and 
 - Any readable paper, sign or screen in frame comes out as gibberish.
 
 <!-- Source: prompt-styles/references/realism.md, distilled from PromptWise "The AI Realism Playbook" (promptwise-free.vercel.app/17), fetched 2026-10-20. -->
+
+
+## Stock-photo styling reads as AI
+
+A perfect stock photo is the look people now recognise as AI, even when the skin texture is right. These defaults
+together made a full set of keyframes read as fake (2026-10-30), although each prompt asked for "real skin, pores":
+golden-hour backlight in every shot, dust or haze in the air, f/1.8 creamy bokeh, attractive posed people with proud
+half-smiles, spotless sets and one warm grade across all shots.
+
+Write instead:
+- **Ordinary light with a reason:** a grey window, an overhead tube, a desk lamp. End the line with what is not
+  there ("no sunlight, no haze").
+- **Ordinary people mid-task:** eyes on the work, not on the lens; "focused, not smiling"; a real age and build.
+- **Lived-in sets:** tape, receipts, cables, a half-drunk mug, the clutter of the trade.
+- **Deeper focus** (f/4-f/5.6) when the place matters, so the background stays readable.

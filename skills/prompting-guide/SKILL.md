@@ -134,6 +134,14 @@ that still fails goes to the user, not to the model.
 6. **Known failure modes:** if the shot hits one in the model file's table, apply the fix or re-route.
 7. **Settings:** every option and value exists for this model at this provider; audio matches the
    brief; aspect and duration are allowed values; no locked option is overridden.
+8. **Realistic faces:** the realism block from `references/styles/realism.md` is pasted word for
+   word (in the still AND the video prompt), recurring people have a character sheet as a
+   reference, and none of the stock-photo defaults are present unless the brief asks for them:
+   golden-hour backlight, haze or dust in the air, creamy bokeh at f/1.8, posed or proud smiles,
+   spotless sets. The light line names one source with a reason and ends with what is not there.
+9. **User overrides:** if the user picked a model or resolution that the router ranks lower for
+   this shot type (e.g. a non-default image model for faces, 720p for a final clip), the trade-off
+   was stated to the user before anything is spent.
 
 ### Step 6. Price, then hand off
 
@@ -156,6 +164,8 @@ during the run. If a take fails, come back here, change one brief field, recompi
 5. **Light from physical sources**, not moods: direction, colour, time of day, haze.
 6. **Dense style labels, no empty boosters.** Media and movement names that pull a clear look.
    Resolution is a setting, not a word. "Slightly grainy, film-like" fights the over-clean AI look.
+   Opening a prompt with "Cinematic film still" counts as a booster: say what the frame is
+   ("16:9 film still, the first frame of a video shot") and let the light and lens lines do the rest.
 7. **Describe what IS there.** Naming a flaw plants it. Keep literal negation to short constraint
    lines the model expects. Use a negative-prompt field only if the model offers one.
 8. **Aspect ratio up front**, chosen from the destination (9:16 reels, 1:1 / 4:5 feed, 16:9 web,

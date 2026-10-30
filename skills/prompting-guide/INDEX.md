@@ -48,10 +48,10 @@ file and line, and Read that file from that line. Ids are stable; line numbers a
 | `skill.step-3-compile` | Mode A: write > Step 3. Compile | SKILL.md | 104 |
 | `skill.step-4-look-blocks` | Mode A: write > Step 4. Look blocks | SKILL.md | 110 |
 | `skill.step-5-self-check-before-anything-is-spe` | Mode A: write > Step 5. Self-check before anything is spent (mandatory) | SKILL.md | 119 |
-| `skill.step-6-price-then-hand-off` | Mode A: write > Step 6. Price, then hand off | SKILL.md | 138 |
-| `skill.universal-rules-every-model` | Universal rules (every model) | SKILL.md | 147 |
-| `skill.rules-for-working` | Rules for working | SKILL.md | 179 |
-| `skill.files` | Files | SKILL.md | 187 |
+| `skill.step-6-price-then-hand-off` | Mode A: write > Step 6. Price, then hand off | SKILL.md | 146 |
+| `skill.universal-rules-every-model` | Universal rules (every model) | SKILL.md | 155 |
+| `skill.rules-for-working` | Rules for working | SKILL.md | 189 |
+| `skill.files` | Files | SKILL.md | 197 |
 | `brief-schema.1-cast-bible-once-per-job` | 1. Cast bible (once per job) | references/brief-schema.md | 7 |
 | `brief-schema.2-shot-brief` | 2. Shot brief | references/brief-schema.md | 29 |
 | `brief-schema.3-field-meanings-the-compiler-relies-on` | 3. Field meanings the compiler relies on | references/brief-schema.md | 79 |
@@ -182,19 +182,19 @@ file and line, and Read that file from that line. Ids are stable; line numbers a
 | `models.seedance.compile` | Seedance 2.x (2.0, 2.0 Fast, 2.5) > Compile | references/models/seedance.md | 50 |
 | `models.seedance.self-check` | Seedance 2.x (2.0, 2.0 Fast, 2.5) > Self-check | references/models/seedance.md | 99 |
 | `models.seedance.failure-modes` | Seedance 2.x (2.0, 2.0 Fast, 2.5) > Failure modes | references/models/seedance.md | 106 |
-| `models.seedance.seedance-1-x-1-5-pro-1-pro-1-lite` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) | references/models/seedance.md | 119 |
-| `models.seedance.when-to-pick-it-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > When to pick it | references/models/seedance.md | 127 |
-| `models.seedance.compile-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > Compile | references/models/seedance.md | 133 |
-| `models.seedance.self-check-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > Self-check | references/models/seedance.md | 152 |
-| `models.seedance.failure-modes-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > Failure modes | references/models/seedance.md | 157 |
-| `models.seedance.field-notes` | Field notes | references/models/seedance.md | 166 |
-| `models.seedance.pick-the-mode-before-writing` | Field notes > Pick the mode before writing | references/models/seedance.md | 168 |
-| `models.seedance.fast-tiers` | Field notes > Fast tiers | references/models/seedance.md | 179 |
-| `models.seedance.image-to-video-modes` | Field notes > Image to video modes | references/models/seedance.md | 184 |
-| `models.seedance.motion-transfer-via-references` | Field notes > Motion transfer via references | references/models/seedance.md | 196 |
-| `models.seedance.audio-across-clips` | Field notes > Audio across clips | references/models/seedance.md | 204 |
-| `models.seedance.anti-slop` | Field notes > Anti-slop | references/models/seedance.md | 208 |
-| `models.seedance.fast-diagnosis` | Field notes > Fast diagnosis | references/models/seedance.md | 222 |
+| `models.seedance.seedance-1-x-1-5-pro-1-pro-1-lite` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) | references/models/seedance.md | 120 |
+| `models.seedance.when-to-pick-it-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > When to pick it | references/models/seedance.md | 128 |
+| `models.seedance.compile-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > Compile | references/models/seedance.md | 134 |
+| `models.seedance.self-check-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > Self-check | references/models/seedance.md | 153 |
+| `models.seedance.failure-modes-2` | Seedance 1.x (1.5 Pro, 1 Pro, 1 Lite) > Failure modes | references/models/seedance.md | 158 |
+| `models.seedance.field-notes` | Field notes | references/models/seedance.md | 167 |
+| `models.seedance.pick-the-mode-before-writing` | Field notes > Pick the mode before writing | references/models/seedance.md | 169 |
+| `models.seedance.fast-tiers` | Field notes > Fast tiers | references/models/seedance.md | 180 |
+| `models.seedance.image-to-video-modes` | Field notes > Image to video modes | references/models/seedance.md | 185 |
+| `models.seedance.motion-transfer-via-references` | Field notes > Motion transfer via references | references/models/seedance.md | 197 |
+| `models.seedance.audio-across-clips` | Field notes > Audio across clips | references/models/seedance.md | 205 |
+| `models.seedance.anti-slop` | Field notes > Anti-slop | references/models/seedance.md | 209 |
+| `models.seedance.fast-diagnosis` | Field notes > Fast diagnosis | references/models/seedance.md | 223 |
 | `models.seedream.when-to-pick-it` | When to pick it | references/models/seedream.md | 12 |
 | `models.seedream.compile` | Compile | references/models/seedream.md | 19 |
 | `models.seedream.example` | Compile > Example | references/models/seedream.md | 37 |
@@ -341,6 +341,7 @@ file and line, and Read that file from that line. Ids are stable; line numbers a
 | `styles.realism.one-consistent-multi-shot-scene` | One consistent multi-shot scene | references/styles/realism.md | 80 |
 | `styles.realism.fix-the-tells` | Fix the tells | references/styles/realism.md | 111 |
 | `styles.realism.where-it-fails` | Where it fails | references/styles/realism.md | 126 |
+| `styles.realism.stock-photo-styling-reads-as-ai` | Stock-photo styling reads as AI | references/styles/realism.md | 138 |
 | `styles.reference-sheets.three-rules` | Three rules | references/styles/reference-sheets.md | 7 |
 | `styles.reference-sheets.character-sheet-prompt` | Character sheet prompt | references/styles/reference-sheets.md | 16 |
 | `styles.reference-sheets.face-edit-image-editor-or-editing-model` | Face edit (image editor or editing model) | references/styles/reference-sheets.md | 29 |
